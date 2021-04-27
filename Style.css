@@ -1,0 +1,82 @@
+body {
+    background-image: url(wp4795370.jpg);
+}
+
+.list{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.list:after{
+    content: '';
+    display: block;
+    clear: both;
+}
+
+header h1{
+    float: right;
+    padding: 15px 0;
+    color: whitesmoke;
+}
+
+header ul{
+    float: left;
+    font-family: 'Courier New', Courier, monospaces;
+}
+
+header ul li{
+    display: inline-block;
+    font-size: x-large;
+}
+section{
+    padding: 50px 0;
+}
+
+section h3{
+    text-align:center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    padding: 20px 0;
+    color: rgb(0, 0, 0);
+}
+
+.about p{
+    color: black;
+    word-spacing: 2px;
+    line-height: 25px;
+}
+
+
+.cv {
+    width: 400px;
+    display: block;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.foto{
+    width: 300px;
+    border-radius: 100%;
+    display: block;
+    margin: auto;
+    margin-bottom: 35px;
+}
+
+.TKW {
+    width: 400px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.musrif {
+    width: 400px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.kelas{
+    width: 400px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
